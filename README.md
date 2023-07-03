@@ -1,8 +1,8 @@
 # How Microsoft might of viewed the 90s Video Game market
-This analysis explores the videogame industry in the 90s. Specifically from the point of view of Microsoft and the possibility of them joining the console market. I will break down the data step by step and show what specific steps Microsoft could take to maximize their first entry into the Console Wars.
+This analysis explores the videogame industry in the 90s. Specifically from the point of view of Microsoft and the possibility of them joining the console market. I will break down the data step by step and show what specific steps Microsoft could take to maximize their first entry into the Home Console Wars.
 
 ## Deciding Where to Start
-If we sort Global sales by year we can see that the last four years of the 90s is the bulk of sales. So we will be focusing from 1996-1999
+If we sort Global sales by year we can see that the last four years of the 90s is the bulk of individual game sales. So we will be focusing from 1996-1999
 
 
 When it comes to Platforms, Nintento and Playstation have a massive lead over PC. Thus we will exclude PC Sales from this analysis.
