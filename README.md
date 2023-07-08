@@ -1,6 +1,7 @@
 # How Microsoft Might of Viewed the 90s Video Game Market
 - This analysis explores the video game industry in the 90s, specifically from Microsoft's perspective and the possibility of them entering the console market. I will break down the data step by step and show the specific actions Microsoft could take to maximize their initial entry into the Home Console Wars.
 - The original data for this analysis is available from this [source](https://www.kaggle.com/datasets/gregorut/videogamesales). However, for the purpose of this study, I have specifically extracted and focused on sales data from the 1990s, ensuring a targeted and relevant analysis.
+- I used Tableau for sorting and cleaning the data, along with graphing the results.
 
 ## Deciding Where to Start
 - By sorting global sales by year, we can observe that the bulk of individual game sales occurred in the last four years of the 90s. Therefore, our focus will be on the period from 1996 to 1999.
